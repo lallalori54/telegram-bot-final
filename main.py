@@ -18,7 +18,7 @@ import httpx
 # ═══════════════════════════════════════════════════════════════════════════════
 # ⚙️ CONFIGURATION & PROXY LIST
 # ═══════════════════════════════════════════════════════════════════════════════
-BOT_TOKEN = "8159301009:AAF5QXmwCVrapVTyky5YQVRlvw-a0ShSjFY"
+BOT_TOKEN = "8159301009:AAGxkF2AYFutmAG4rsLLv83MxkpR9qMmV28"
 ADMIN_ID = 8406485762
 ADMIN_IDS = [8406485762]
 
