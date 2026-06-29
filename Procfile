@@ -1,1 +1,0 @@
-worker: python confirmid.py
